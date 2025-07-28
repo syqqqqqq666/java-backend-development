@@ -1,7 +1,5 @@
-package com.example.springioc;
+package com.example;
 
-import com.example.springioc.Controller.HelloController;
-import com.example.springioc.component.StudentComponent;
 import com.example.springioc.entity.Student;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
